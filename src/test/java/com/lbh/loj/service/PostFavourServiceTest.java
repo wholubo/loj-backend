@@ -1,4 +1,4 @@
-package com.yupi.loj.service;
+package  com.lbh.loj.service;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
@@ -16,7 +16,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 帖子收藏服务测试
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @SpringBootTest
 class PostFavourServiceTest {

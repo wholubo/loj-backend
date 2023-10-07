@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  * 消息处理器
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  **/
 @Component
 public class MessageHandler implements WxMpMessageHandler {

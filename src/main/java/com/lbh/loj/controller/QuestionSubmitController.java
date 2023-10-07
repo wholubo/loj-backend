@@ -12,7 +12,7 @@ import javax.annotation.Resource;
  * 题目提交接口
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @RestController
 //@RequestMapping("/question_submit")

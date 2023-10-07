@@ -11,11 +11,11 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  * 主类（项目启动入口）
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 // todo 如需开启 Redis，须移除 exclude 中的内容
 @SpringBootApplication(exclude = {RedisAutoConfiguration.class})
-@MapperScan("com.yupi.loj.mapper")
+@MapperScan("com.lbh.loj.mapper")
 @EnableScheduling
 @EnableAspectJAutoProxy(proxyTargetClass = true, exposeProxy = true)
 public class MainApplication {

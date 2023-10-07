@@ -1,4 +1,4 @@
-package com.yupi.loj.mapper;
+package  com.lbh.loj.mapper;
 
 import com.lbh.loj.mapper.PostMapper;
 import com.lbh.loj.model.entity.Post;
@@ -13,7 +13,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 帖子数据库操作测试
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @SpringBootTest
 class PostMapperTest {

@@ -30,7 +30,7 @@ import org.springframework.util.DigestUtils;
  * 用户服务实现
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @Service
 @Slf4j
@@ -39,7 +39,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements Us
     /**
      * 盐值，混淆密码
      */
-    private static final String SALT = "yupi";
+    private static final String SALT = "lbh";
 
     @Override
     public long userRegister(String userAccount, String userPassword, String checkPassword) {

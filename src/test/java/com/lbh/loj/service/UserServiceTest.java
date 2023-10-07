@@ -1,4 +1,4 @@
-package com.yupi.loj.service;
+package  com.lbh.loj.service;
 
 import javax.annotation.Resource;
 
@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 用户服务测试
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @SpringBootTest
 public class UserServiceTest {
@@ -21,7 +21,7 @@ public class UserServiceTest {
 
     @Test
     void userRegister() {
-        String userAccount = "yupi";
+        String userAccount = "lbh";
         String userPassword = "";
         String checkPassword = "123456";
         try {

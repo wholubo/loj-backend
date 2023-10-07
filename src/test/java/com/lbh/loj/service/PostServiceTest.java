@@ -1,4 +1,4 @@
-package com.yupi.loj.service;
+package  com.lbh.loj.service;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.lbh.loj.model.dto.post.PostQueryRequest;
@@ -14,7 +14,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  * 帖子服务测试
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @SpringBootTest
 class PostServiceTest {

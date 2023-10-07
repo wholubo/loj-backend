@@ -1,4 +1,4 @@
-package com.yupi.loj.utils;
+package  com.lbh.loj.utils;
 
 import com.alibaba.excel.EasyExcel;
 import com.alibaba.excel.support.ExcelTypeEnum;
@@ -15,7 +15,7 @@ import java.util.Map;
  * EasyExcel 测试
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @SpringBootTest
 public class EasyExcelTest {

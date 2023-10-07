@@ -15,7 +15,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * https://doc.xiaominfo.com/knife4j/documentation/get_start.html
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @Configuration
 @EnableSwagger2
@@ -32,7 +32,7 @@ public class Knife4jConfig {
                         .build())
                 .select()
                 // 指定 Controller 扫描包路径
-                .apis(RequestHandlerSelectors.basePackage("com.yupi.loj.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.lbh.loj.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }

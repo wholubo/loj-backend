@@ -12,7 +12,7 @@ import lombok.Data;
  * 帖子点赞
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @TableName(value = "post_thumb")
 @Data

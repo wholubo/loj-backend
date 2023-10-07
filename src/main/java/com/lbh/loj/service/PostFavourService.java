@@ -12,7 +12,7 @@ import com.lbh.loj.model.entity.User;
  * 帖子收藏服务
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 public interface PostFavourService extends IService<PostFavour> {
 

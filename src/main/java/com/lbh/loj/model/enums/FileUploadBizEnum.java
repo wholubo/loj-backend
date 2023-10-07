@@ -9,7 +9,7 @@ import org.apache.commons.lang3.ObjectUtils;
  * 文件上传业务类型枚举
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 public enum FileUploadBizEnum {
 

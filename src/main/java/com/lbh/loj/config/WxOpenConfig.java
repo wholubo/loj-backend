@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
  * 微信开放平台配置
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @Slf4j
 @Configuration

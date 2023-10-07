@@ -51,7 +51,7 @@ import org.springframework.stereotype.Service;
  * 帖子服务实现
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @Service
 @Slf4j

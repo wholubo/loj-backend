@@ -6,7 +6,7 @@ import com.lbh.loj.common.ErrorCode;
  * 自定义异常类
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 public class BusinessException extends RuntimeException {
 

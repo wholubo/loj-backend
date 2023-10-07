@@ -1,4 +1,4 @@
-package com.yupi.loj.esdao;
+package  com.lbh.loj.esdao;
 
 import com.lbh.loj.esdao.PostEsDao;
 import com.lbh.loj.model.dto.post.PostEsDTO;
@@ -20,7 +20,7 @@ import org.springframework.data.domain.Sort;
  * 帖子 ES 操作测试
  *
  * @author <a href="https://gitee.com/luboheng">wholuobo</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @from <a href="https://gitee.com/luboheng">编程导航知识星球</a>
  */
 @SpringBootTest
 public class PostEsDaoTest {
